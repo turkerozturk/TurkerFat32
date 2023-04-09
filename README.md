@@ -7,4 +7,8 @@ Try it!
 
 A demo partition image is included with the executable; https://github.com/turkerozturk/TurkerFat32/releases/tag/v1.0.0
 
-A demo video is available; https://www.youtube.com/watch?v=rfYY4koxElY (turkerfat32 demo (FAT32 partition image parser library in Java)).
+A demo video is available; 
+https://www.youtube.com/watch?v=rfYY4koxElY (turkerfat32 demo (FAT32 partition image parser library in Java)).
+[![turkerfat32 demo (FAT32 partition image parser library in Java)](https://img.youtube.com/vi/rfYY4koxElY/0.jpg)](https://www.youtube.com/watch?v=rfYY4koxElY)
+
+
